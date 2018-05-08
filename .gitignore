@@ -2,3 +2,5 @@ env2/**
 env3/**
 
 .vscode/**
+
+.DS_Store/*
